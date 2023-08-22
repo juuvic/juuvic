@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Júlia Melo 👋
 
-- 🔭 À procura da primeira oportunidade de emprego
+
 - 🌱 Estudando Python
 - 😄 Pronouns: ela/dela
 
