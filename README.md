@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Júlia Melo 👋
 
 
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
 <div>
